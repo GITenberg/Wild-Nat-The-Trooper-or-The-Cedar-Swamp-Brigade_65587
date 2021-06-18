@@ -1,5 +1,8 @@
 _repo: Wild-Nat-The-Trooper-or-The-Cedar-Swamp-Brigade_65587
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65587-h/images/cover.jpg
 creator:
   author:
     agent_name: Eyster, William R. (William Reynolds)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47366'
     url: http://www.gutenberg.org/2009/agents/47366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65587#Wild-Nat-The-Trooper-or-The-Cedar-Swamp-Brigade
 gutenberg_issued: '2021-06-10'
 gutenberg_type: Text
 identifiers:
